@@ -303,5 +303,18 @@
             "twitter": "https://twitter.com/RacoonSupply",
             "medium": "https://medium.com/@racoon-supply"
         }
+    },
+    {
+        "title": "StreamSwap Protocol",
+        "description": "community-driven token launches using time-based swaps",
+        "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/dapps/images/stream-swap.png",
+        "url": "https://app.streamswap.io",
+        "chain": "osmosis",
+        "badge": "Interchain Launchpad",
+        "links": {
+            "webSite": "https://StreamSwap.io",
+            "github": "https://github.com/StreamSwapProtocol",
+            "twitter": "https://twitter.com/StreamSwap_io"
+        }
     }
 ]
